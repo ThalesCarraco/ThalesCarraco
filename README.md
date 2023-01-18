@@ -1,7 +1,9 @@
+## Bem-vindo(a) ao perfil do ThalesCarraco 😁
+
  <div>
    <a href="https://github.com/ThalesCarraco">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thales&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thales&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThalesCarraco&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThalesCarraco&layout=compact&langs_count=6&theme=tokyonight"/>
 
 </div>
 <div style="display: inline_block"><br>
@@ -12,10 +14,8 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
- 
 <div> 
  
-  ![Snake animation](https://github.com/devemdobro/devemdobro/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/ThalesCarraco/ThalesCarraco/blob/output/github-contribution-grid-snake.svg)
 
 </div>
