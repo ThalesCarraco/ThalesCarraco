@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do ThalesCarraco 😁
+## Bem-vindo(a) ao perfil do Thales 😁
 
  <div>
    <a href="https://github.com/ThalesCarraco">
